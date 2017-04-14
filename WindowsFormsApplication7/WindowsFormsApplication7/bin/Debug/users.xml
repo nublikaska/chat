@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <users>
+    <user login="login" password="password" admin="false" />
+    <user login="denis34" password="12345" admin="false" />
+    <user login="sadf" password="sdfsf" admin="false" />
+    <user login="admin" password="password" admin="true" />
+    <user login="denis3" password="12345" admin="false" />
+  </users>
+</data>
